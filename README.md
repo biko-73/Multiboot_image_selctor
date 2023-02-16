@@ -1,6 +1,7 @@
 # Multiboot_image_selctor
 
-That's copieng from team site as followed 
+That's copies from team site
+https://board.openbh.net/threads/vu-real-multiboot-now-available.3077/post-17945
 
 Supported boxes:
 vuultimo4k vuuno4kse vuuno4k vusolo4k vuzero4k vuduo4k vuduo4kse (all the vuplus 4k boxes)
