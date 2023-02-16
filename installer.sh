@@ -15,7 +15,7 @@ if [[ "$BOXNAME" == "vuzero4k" ]];then
 elif [[ "$BOXNAME" == "vuuno4k" ]];then
   wget -O /tmp/kexec-multiboot-uno4k-v0.2.4.zip "https://github.com/biko-73/Multiboot_image_selctor/raw/main/kexec-multiboot-uno4k-v0.2.4.zip" >/dev/null 2>&1
   cd /tmp
-  unzip exec-multiboot-uno4k-v0.2.4.zip
+  unzip kexec-multiboot-uno4k-v0.2.4.zip
   sh install.sh
   echo $LINE
   echo "Restart"
